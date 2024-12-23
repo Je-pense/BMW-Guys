@@ -1,12 +1,12 @@
 # Site settings
-title: houtao | my hometown, my root
-description: '我的故鄉，我的根。'
-keywords: '後套傳奇'
-url: 'https://je-pense.github.io/houtao/'
+title: BMW-Guys | Stories about some BMW guys
+description: '沒看見嗎？寫的清清楚楚，別摸我。'
+keywords: '寶馬人'
+url: 'https://je-pense.github.io/BMW-Guys/'
 author:
   name: '阿甘'
   email: 'winwinsfu@gmail.com'
-  url: 'https://je-pense.github.io/houtao/'
+  url: 'https://je-pense.github.io/BMW-Guys/'
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
